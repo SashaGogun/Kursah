@@ -1,0 +1,56 @@
+{
+  "513458005": {
+    "AccountNumber": 513458005,
+    "Password": "123456789",
+    "deposit": {
+      "CDA": 1733.0,
+      "LDO": "2024-05-28T15:22:44.8744705+03:00",
+      "typeOperation": "Поповнення рахунку",
+      "lastSumOp": 111.0
+    },
+    "passport": {
+      "NumberOfPassport": 123456789,
+      "FIO": "Годун Олександр Васильович",
+      "Sex": "Ч",
+      "RNOKPP": 123456789,
+      "IssuedBy": "1234",
+      "IssueDate": "2005-06-10T14:49:04",
+      "ExpiryDate": "2045-07-21T14:49:04"
+    },
+    "interestBearingDeposit": {
+      "IsThereDeposit": false,
+      "amountInvested": 0.0,
+      "percent": 0.0,
+      "endTermin": "0001-01-01T00:00:00",
+      "startTermin": "0001-01-01T00:00:00",
+      "countFarmMoney": 0.0
+    }
+  },
+  "150600201": {
+    "AccountNumber": 150600201,
+    "Password": "123456789",
+    "deposit": {
+      "CDA": 201.0,
+      "LDO": "2024-05-22T14:45:27.0205887+03:00",
+      "typeOperation": "Переказ грошів",
+      "lastSumOp": 101.0
+    },
+    "passport": {
+      "NumberOfPassport": 123456789,
+      "FIO": "Лаврик Дмитро Дмитрович",
+      "Sex": "Ч",
+      "RNOKPP": 123456789,
+      "IssuedBy": "1234",
+      "IssueDate": "2018-06-22T14:38:51",
+      "ExpiryDate": "2046-07-22T14:38:51"
+    },
+    "interestBearingDeposit": {
+      "IsThereDeposit": false,
+      "amountInvested": 0.0,
+      "percent": 0.0,
+      "endTermin": "0001-01-01T00:00:00",
+      "startTermin": "0001-01-01T00:00:00",
+      "countFarmMoney": 0.0
+    }
+  }
+}
